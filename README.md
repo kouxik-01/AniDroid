@@ -29,7 +29,6 @@
 - 🔍 **Instant Search** - Find any anime in milliseconds with our massive offline-synced database.
 - 📺 **Native Fullscreen Player** - Seamlessly switch between portrait and landscape modes with a single tap.
 - ⏯️ **Continue Watching** - The app automatically remembers exactly where you left off.
-- 📲 **In-App Updates** - Never miss a new feature with our seamless remote update system.
 - 🛡️ **Privacy First** - We do not collect, store, or share any of your personal data.
 
 ## 📱 Screenshots
